@@ -1,2 +1,3 @@
 non empty file
-this truly is interesting a leaning curve for me
+
+how to be up to date on git now
